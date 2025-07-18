@@ -99,7 +99,7 @@ export function pxTransform(size: number) {
 
 ## 六、疑问🤔
 
-###为什么选择 `100px` 作为基准字体大小
+### 为什么选择 `100px` 作为基准字体大小
 
 在 `flexible.ts` 中，基准字体大小被设置为 `100px`。这个值的选择基于以下考虑：
 
